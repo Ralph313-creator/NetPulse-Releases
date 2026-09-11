@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "0.0.0",
-  "released": "",
-  "notes": "No counter build has been published yet.",
-  "url": "",
-  "size": 0,
-  "sha256": ""
+  "version": "1.4.1",
+  "released": "2026-09-11",
+  "notes": "First published build of the counter. Adds the update checker: Settings - Updates says which version this counter is on and installs a newer one. The counter and the terminals are separate products and update independently.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/server-v1.4.1/NetPulse-Server.exe",
+  "size": 14292480,
+  "sha256": "1e74741309e203bd6c5bc606a4f79e7ff7d74eb33c8553a40979e1fbf9e847b7"
 }
