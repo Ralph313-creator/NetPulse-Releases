@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.4.2",
-  "released": "2026-09-11",
-  "notes": "Wording only: every screen, message and note now spells it \"license\" rather than \"licence\". Nothing else changed - no new settings, and a key you already have keeps working exactly as before.",
-  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/server-v1.4.2/NetPulse-Server.exe",
-  "size": 14292480,
-  "sha256": "7272feda2d6aae13f9facb7bf27ca6377c041d3c48c925a3f6faa0395b07cecd"
+  "version": "1.5.0",
+  "released": "2026-09-12",
+  "notes": "Two kinds of license key. The counter key licenses this server: it carries how many computers it may let in, and it renews. The terminal key licenses the floor, is permanent, and this counter hands it down to every computer. Both go on Settings, Licenses. This server is now free for its first month and admits three computers while that runs; after it, with no counter key, it lets no new computer in and takes nobody off the floor. The shop's own name is something a key buys. Every key issued before this build needs replacing.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/server-v1.5.0/NetPulse-Server.exe",
+  "size": 14316032,
+  "sha256": "8c1219e6fec7b291337ef8056451d7de30185bfd607bd47e233dbb9083c7e10d"
 }
