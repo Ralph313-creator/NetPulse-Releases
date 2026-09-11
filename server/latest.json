@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "released": "2026-09-11",
-  "notes": "First published build of the counter. Adds the update checker: Settings - Updates says which version this counter is on and installs a newer one. The counter and the terminals are separate products and update independently.",
-  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/server-v1.4.1/NetPulse-Server.exe",
+  "notes": "Wording only: every screen, message and note now spells it \"license\" rather than \"licence\". Nothing else changed - no new settings, and a key you already have keeps working exactly as before.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/server-v1.4.2/NetPulse-Server.exe",
   "size": 14292480,
-  "sha256": "1e74741309e203bd6c5bc606a4f79e7ff7d74eb33c8553a40979e1fbf9e847b7"
+  "sha256": "7272feda2d6aae13f9facb7bf27ca6377c041d3c48c925a3f6faa0395b07cecd"
 }
