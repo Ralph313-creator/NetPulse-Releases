@@ -1,9 +1,9 @@
 {
   "product": "client",
-  "version": "0.0.0",
-  "released": "",
-  "notes": "No terminal build has been published yet.",
-  "url": "",
-  "size": 0,
-  "sha256": ""
+  "version": "1.2.0",
+  "released": "2026-09-11",
+  "notes": "First published build of the terminal. Adds the update checker: System - Updates in the panel says which version this computer is on and installs a newer one. A computer with a customer on it will not update.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.2.0/NetPulse.exe",
+  "size": 13379584,
+  "sha256": "6075a7cc3b1b7335438d6e05f1ff9c10323a7081ebf954b30c7060bfe8ca4f78"
 }
