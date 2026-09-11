@@ -1,9 +1,12 @@
 {
   "product": "client",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "released": "2026-09-12",
-  "notes": "Two kinds of license key. The terminal key licenses the computers on the floor: it is permanent and one covers the whole shop. The counter key licenses a NetPulse-Server. Neither works in place of the other, and a key pasted into the wrong box now says exactly that. The shop's own name on the screens is something a key buys; the name you set is kept and comes back the moment a key goes in. Every key issued before this build needs replacing.",
-  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.3.0/NetPulse.exe",
-  "size": 13387776,
-  "sha256": "1edec37ebff2c9e5b40b32baa690037dd3138fdb94c06d3455701a3bc05683bc"
+  "notes": "The terminal ships as two programs and an update now carries both: systemRunTime.exe, the helper that restarts the terminal, is downloaded and checked alongside NetPulse.exe. A computer that never had the helper installs it by itself, so the Security tab stops reading 'Helper program: missing' with nothing able to fix it. Nothing asks for Administrator and no session is interrupted.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.3.1/NetPulse.exe",
+  "size": 13396480,
+  "sha256": "a3ab1986fde71d930db178c495efd9f3137aac0a7470b75419fd8f61089b19a6",
+  "helperUrl": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.3.1/systemRunTime.exe",
+  "helperSize": 3292160,
+  "helperSha256": "f5ecde73cec83f061e644168cec7036d2b8f47ebc1afa4861668166b90ff4f72"
 }
