@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.4.0",
-  "released": "2026-09-12",
-  "notes": "Order from your seat and watch it get made: the customer's Store panel now lets you pick things and send the order to the counter, with a countdown once staff start preparing it (prepStart/prepStop from the counter's chat or Telegram). Staff can close the store for the night without hiding the price list. The Ask the admin button now opens as its own screen instead of a drawer, matching My saves/Rates/Store.",
-  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.4.0/NetPulse.exe",
-  "size": 13455360,
-  "sha256": "53544368be634c2dbb578f98b0559bf6447199198a26fad860af4f10265a6927",
-  "helperUrl": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.4.0/systemRunTime.exe",
+  "version": "1.4.1",
+  "released": "2026-09-13",
+  "notes": "Staff can reach the operator panel again on a terminal that has locked itself full screen: press Ctrl+Alt+A for the operator panel, or Ctrl+Alt+S for Setup. With the screen covered there is no tray icon to right-click, so two jobs could not be done at all - clearing a customer's locked screen for somebody who has forgotten their password, and switching the screen cover back off. Both keys still ask for the staff password, and both are printed on the cover switch in Setup.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.4.1/NetPulse.exe",
+  "size": 13456384,
+  "sha256": "4ae2fa694887de42568bd7349db16971431c051aa2e808c555f339743f79676c",
+  "helperUrl": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.4.1/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "d576403ebada16a083ad4d851032a9d31ef4005176671a417465eefb141e03a4"
+  "helperSha256": "67719c2ccf0230e7ad897e62e5b3bab5f70eedc22a6529a1b0c2fc2917834ca3"
 }
