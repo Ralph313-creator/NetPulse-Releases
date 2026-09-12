@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.3.3",
+  "version": "1.4.0",
   "released": "2026-09-12",
-  "notes": "New Store button on the countdown (a preview of the counter's shop, ordering not wired yet). The operator panel button moved to the bottom-right corner, out of the way of the customer's own buttons. The system tray button now shows an X. Chat, My saves and Rates buttons are bigger and easier to tap. The game-saves and rates panels now open as full-screen views with larger cards.",
-  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.3.3/NetPulse.exe",
-  "size": 13400576,
-  "sha256": "51d50adcb920ef409dff97bedaa5f6413a88b6dffef71693c927a83660ad42af",
-  "helperUrl": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.3.3/systemRunTime.exe",
+  "notes": "Order from your seat and watch it get made: the customer's Store panel now lets you pick things and send the order to the counter, with a countdown once staff start preparing it (prepStart/prepStop from the counter's chat or Telegram). Staff can close the store for the night without hiding the price list. The Ask the admin button now opens as its own screen instead of a drawer, matching My saves/Rates/Store.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.4.0/NetPulse.exe",
+  "size": 13455360,
+  "sha256": "53544368be634c2dbb578f98b0559bf6447199198a26fad860af4f10265a6927",
+  "helperUrl": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/client-v1.4.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "01e5bf0dacb007944ef70ef410936175a5c775bd132fcd4de44739d6df8e2d24"
+  "helperSha256": "d576403ebada16a083ad4d851032a9d31ef4005176671a417465eefb141e03a4"
 }
