@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.6.0",
-  "released": "2026-09-12",
-  "notes": "New Store page on the dashboard: type up what the counter sells, with pictures, prices and stock counts, and it appears on every terminal's Store panel. Answer orders from your phone with new Telegram commands: /prep to start a countdown on the customer's screen, /prepdone when it's ready, /storeclose and /storeopen to stop or resume taking orders (on one machine or the whole floor).",
-  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/server-v1.6.0/NetPulse-Server.exe",
-  "size": 14348800,
-  "sha256": "9a9906b426a15cbbc5a7aae9172746921c71050b9b991f49c6efe4f9747a0265"
+  "version": "1.6.1",
+  "released": "2026-09-13",
+  "notes": "Fixes an update that reported success but left the shop on the old version. After Install and restart the old server was hiding in the notification area instead of closing, so it kept hold of the data folder and the port, and the new copy gave up and quit. Install and restart now really does restart. If a counter is stuck on the old version, quit it from the notification area and start NetPulse-Server again - the new build is already on disk.",
+  "url": "https://github.com/Ralph313-creator/NetPulse-Releases/releases/download/server-v1.6.1/NetPulse-Server.exe",
+  "size": 14349824,
+  "sha256": "81f3863687b400fa9912dcdd8efbafc458d4cd308cc49b3465042137ff406d38"
 }
